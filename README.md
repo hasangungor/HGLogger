@@ -1,3 +1,3 @@
 # HGLogger
 
-A description of this package.
+Swift Package Distribution Demo
